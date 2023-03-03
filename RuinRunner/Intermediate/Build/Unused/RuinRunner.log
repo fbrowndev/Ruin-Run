@@ -1,0 +1,10 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" RuinRunnerEditor Win64 Development -Project="D:\UnrealEnginePP\Ruin-Run\RuinRunner\RuinRunner.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\arrow\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealEnginePP\Ruin-Run).
+  Invalidating makefile for RuinRunnerEditor (working set of source files changed)
+  Parsing headers for RuinRunnerEditor
+    Running Internal UnrealHeaderTool D:\UnrealEnginePP\Ruin-Run\RuinRunner\RuinRunner.uproject D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\RuinRunnerEditor\Development\RuinRunnerEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 2 written
+  Reflection code generated for RuinRunnerEditor in 3.1996821 seconds
+  Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command "D:\UnrealEngineD\UE_5.1\Engine\Build\BatchFiles\Build.bat RuinRunnerEditor Win64 Development -Project="D:\UnrealEnginePP\Ruin-Run\RuinRunner\RuinRunner.uproject" -WaitMutex -FromMsBuild" exited with code 6.

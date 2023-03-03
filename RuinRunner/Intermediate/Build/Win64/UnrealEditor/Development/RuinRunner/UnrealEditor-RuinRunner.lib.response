@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RuinRunner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\RuinRunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\UnrealEditor\Development\RuinRunner\MovingPlatform.gen.cpp.obj"
+"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\UnrealEditor\Development\RuinRunner\RuinRunner.init.gen.cpp.obj"
+"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\UnrealEditor\Development\RuinRunner\MovingPlatform.cpp.obj"
+"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\UnrealEditor\Development\RuinRunner\RuinRunner.cpp.obj"
+"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\UnrealEditor\Development\RuinRunner\Default.rc2.res"
+/OUT:"D:\UnrealEnginePP\Ruin-Run\RuinRunner\Intermediate\Build\Win64\UnrealEditor\Development\RuinRunner\UnrealEditor-RuinRunner.lib"

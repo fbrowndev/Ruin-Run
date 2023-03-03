@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RuinRunner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RuinRunner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RuinRunnerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Link to Source Assets.txt" />
+    <None Include="..\..\SCK_Casual01.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\RuinRunner">
+      <UniqueIdentifier>{A7932AF0-67D5-38F4-AF70-70327FF77384}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RuinRunner\MovingPlatform.cpp">
+      <Filter>Source\RuinRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RuinRunner\MovingPlatform.h">
+      <Filter>Source\RuinRunner</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RuinRunner\RuinRunner.Build.cs">
+      <Filter>Source\RuinRunner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RuinRunner\RuinRunner.cpp">
+      <Filter>Source\RuinRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RuinRunner\RuinRunner.h">
+      <Filter>Source\RuinRunner</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
